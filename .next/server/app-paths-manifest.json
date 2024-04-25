@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/prompt/[id]/route": "app/api/prompt/[id]/route.js",
+  "/api/prompt/new/route": "app/api/prompt/new/route.js",
+  "/api/user/route": "app/api/user/route.js",
+  "/profile/page": "app/profile/page.js",
+  "/api/user/[id]/posts/route": "app/api/user/[id]/posts/route.js",
+  "/api/prompt/route": "app/api/prompt/route.js",
+  "/page": "app/page.js",
+  "/create-prompt/page": "app/create-prompt/page.js",
+  "/update-prompt/page": "app/update-prompt/page.js",
+  "/api/auth/[auth0]/route": "app/api/auth/[auth0]/route.js"
+}
